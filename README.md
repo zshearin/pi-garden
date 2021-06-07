@@ -1,3 +1,9 @@
+# Project Goal
+The current goal of this project is to create a system that will monitor and water my plants while I am away.  I want to start with a single plant for proof-of-concept purposes then potentially expand scale to more plants. Current established components that are needed to accomplish this: 
+- Monitoring plant system (moisture and temperature)
+- Watering system (action upon reading of moisture and temperature)
+- Notification system (keep end user informed on actions taken, levels of moisture and water in reservoir, etc)
+
 
 ## Raspberry Pi Connections
 Use images provided in [this](https://medium.com/initial-state/how-to-use-a-soil-moisture-sensor-to-keep-your-plants-alive-51a2294b88e) link to connect wires to soil sensor and raspberry pi
